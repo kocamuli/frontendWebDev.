@@ -1,0 +1,20 @@
+.ortala {
+    text-align: center;
+}
+
+.renk {
+    color : red;
+}
+
+.anaorta{
+    list-style-position: inside
+}
+
+h3{
+    color : blue;
+    font-family: Tahoma
+}
+
+h1.italic{
+    font-stye : italic;
+}
